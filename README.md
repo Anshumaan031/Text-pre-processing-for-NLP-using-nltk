@@ -22,7 +22,7 @@ A bag-of-words is a representation of text that describes the occurrence of word
 ![image](https://user-images.githubusercontent.com/67821036/140009896-5e0052bd-a90e-42d1-a2e6-8b245bbeada4.png)
 
 
-<h1> TD-IDF </h1>
+<h1> TF-IDF </h1>
 TF-IDF stands for Term Frequency Inverse Document Frequency of records. It can be defined as the calculation of how relevant a word in a series or corpus is to a text. The meaning increases proportionally to the number of times in the text a word appears but is compensated by the word frequency in the corpus (data-set).</br>
 ![image](https://user-images.githubusercontent.com/67821036/140009999-d17eb3fc-8b5a-4cff-8b32-aa26a22bbd90.png)
 
