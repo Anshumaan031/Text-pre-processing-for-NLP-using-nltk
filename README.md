@@ -11,7 +11,7 @@ Lemmatization technique is like stemming. The output we will get after lemmatiza
 
 <h1> Tokenization </h1>
 Tokenization is a way of separating a piece of text into smaller units called tokens. Here, tokens can be either words, characters, or subwords. Hence, tokenization can be broadly classified into 3 types – word, character, and subword (n-gram characters) tokenization.</br>
-![image](https://user-images.githubusercontent.com/67821036/140010230-04aca254-277f-4488-987b-c18db9fdb4ab.png)
+![image](https://user-images.githubusercontent.com/67821036/140010298-559bed7c-73a7-47ec-b3c0-053ea7d8fcae.png)
 
 <h1> Bag of Words </h1>
 A bag-of-words model, or BoW for short, is a way of extracting features from text for use in modeling, such as with machine learning algorithms.</br>
